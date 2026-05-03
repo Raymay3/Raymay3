@@ -13,8 +13,17 @@
   <a href="https://www.linkedin.com/in/gabriella-gass-a61924252">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ggass2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
+  <a href="https://umich.zoom.us/j/4789607259">
+    <img src="https://img.shields.io/badge/Zoom-42A5F5?style=for-the-badge&logo=zoom&logoColor=white"/>
+  </a>
+  
+  <a href="https://meet.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Meet-34A853?style=for-the-badge&logo=google-meet&logoColor=white"/>
+  </a>
+  
+  <a href="https://app.slack.com/client/T0B0V9Q89AB/C0B18MH2LJ2?ssb_vid=.9992eb1a0fec18c180f837b9602e185a">
+    <img src="https://img.shields.io/badge/Slack-AB47BC?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
 </p>
 
@@ -54,7 +63,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ⚙️ Tools & Workflow
-![GitHub](https://img.shields.io/badge/GitHub-546E7A?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-42A5F5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
