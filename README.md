@@ -50,8 +50,8 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ### 📈 Visualization & Analytics
 ![Plotly](https://img.shields.io/badge/Plotly-29B6F6?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-AB47BC?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1E88E5?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-AB47BC?style=for-the-badge&logo=powerbi&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ⚙️ Tools & Workflow
 ![GitHub](https://img.shields.io/badge/GitHub-546E7A?style=for-the-badge&logo=github&logoColor=white)
