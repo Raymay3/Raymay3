@@ -1,6 +1,6 @@
 <!-- HERO GIF (replace with one you like if you want) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://github.com/Raymay3/Raymay3/blob/main/GitHub%20GIF.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Gabriella Gass 👋</h1>
