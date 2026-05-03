@@ -76,7 +76,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ### 🩺 Diabetes Risk Prediction (Machine Learning)
 <p align="center">
-  <img src="https://github.com/Raymay3/MAT-422---Math-Methods-in-Data-Science---Diabetes-Data-Project/blob/141052339cff97aa5b157fabf5981c443ccee619/feature-correlation-heatmap.png" width="600"/>
+  <img src="https://github.com/Raymay3/Raymay3/blob/main/feature-correlation-heatmap.png" width="600"/>
 </p>
 
 - Built ML models (logistic regression, random forest, SVM, neural networks)  
