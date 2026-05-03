@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Gabriella Gass 👋</h1>
 
 <p align="center">
-  🎓 MADS @ University of Michigan | 📊 Data Scientist | ⚙️ Aspiring Data Engineer  
+  🎓 MADS @ University of Michigan
 </p>
 
 <p align="center">
