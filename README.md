@@ -36,7 +36,7 @@ I'm a Master's student in Applied Data Science at the University of Michigan wit
 I enjoy building **end-to-end data systems**, from data ingestion and preprocessing to machine learning models and visualization.
 
 - 🎓 MADS @ University of Michigan (4.0 GPA)  
-- 🎓 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude (4.0 GPA)*  
+- 📔 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude (4.0 GPA)*  
 - 📊 Experience in machine learning, analytics, and dashboards  
 - ⚙️ Currently focusing on **data engineering + ML pipelines**  
 
