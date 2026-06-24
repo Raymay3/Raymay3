@@ -65,6 +65,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ### ⚙️ Tools & Workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-42A5F5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FBC02D)
 
 ---
 
@@ -75,9 +76,9 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
   <img src="https://images.unsplash.com/photo-1611339555312-e607c8352fd7" width="600"/>
 </p>
 
-- Interactive dashboard analyzing 1,000+ tracks across 10 genres  
-- Built with Plotly (scatter, histogram, violin plots)  
-- Revealed relationships between energy, tempo, and popularity  
+- Designed an interactive Plotly dashboard to explore popularity trends across 1,000+ Spotify tracks
+- Implemented dynamic filtering and coordinated visualizations including scatter, histogram, bar, and violin plots
+- Analyzed how audio characteristics such as energy, danceability, valence, and tempo relate to song popularity
 
 👉 *(https://github.com/Raymay3/Spotify-Data-Visualization-Project)*
 
