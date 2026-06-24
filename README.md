@@ -115,9 +115,22 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ## 🎯 Current Focus
 
-- ⚙️ Data Engineering Projects (ETL pipelines, scalable systems)  
-- 🤖 Machine Learning + Model Deployment  
-- 📊 Advanced Data Visualization  
+- ⚙️ Building data engineering projects and scalable data pipelines
+- ☁️ Expanding cloud and backend development skills
+- 🤖 Machine Learning & Model Deployment
+- 📊 Advanced Data Visualization
+
+---
+
+---
+
+## 🌱 Continuous Learning
+
+I'm continually expanding my technical toolkit through hands-on projects and structured learning in modern software development, cloud technologies, and data engineering.
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/6cca6b56-1b36-4580-96a0-5427f6ae96f0/thumbnail" />
+</p>
 
 ---
 
