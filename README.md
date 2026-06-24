@@ -109,7 +109,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ## 🎓 Education
 
 - 📘 **University of Michigan** — Master of Applied Data Science (2025–2027)  
-- 📒 **Arizona State University** — B.S. Mathematics (Statistics), *Summa Cum Laude*  
+- 📒 **Arizona State University** — B.S. Mathematics (Statistics), *Summa Cum Laude* (2021-2024)
 
 ---
 
