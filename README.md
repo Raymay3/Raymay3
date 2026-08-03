@@ -56,6 +56,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ![Pandas](https://img.shields.io/badge/Pandas-7E57C2?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-5E35B1?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-EC407A?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=FFFFFF&color=FFFFFF)
 
 ### 📈 Visualization & Analytics
 ![Plotly](https://img.shields.io/badge/Plotly-29B6F6?style=for-the-badge&logo=plotly&logoColor=white)
@@ -66,6 +67,7 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-42A5F5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FBC02D)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
 
 ---
 
