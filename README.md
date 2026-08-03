@@ -45,7 +45,8 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 ## 🛠️ Technical Skills
 
 ### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=auto)
 ![SQL](https://img.shields.io/badge/SQL-1E88E5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3949AB?style=for-the-badge&logo=java&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-5C6BC0?style=for-the-badge&logo=mathworks&logoColor=white)
