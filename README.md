@@ -31,14 +31,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a Master's student in Applied Data Science at the University of Michigan with a strong foundation in mathematics and statistics.  
+I'm a Master's student in Applied Data Science at the University of Michigan with a strong foundation in mathematics, statistics, and machine learning.
 
-I enjoy building **end-to-end data systems**, from data ingestion and preprocessing to machine learning models and visualization.
+I enjoy building end-to-end data solutions—from collecting and preparing data to developing machine learning models, creating visualizations, and communicating insights. I'm particularly interested in data engineering, predictive analytics, and building scalable data pipelines.
 
-- 🎓 MADS @ University of Michigan (4.0 GPA)  
-- 📔 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude (4.0 GPA)*  
-- 📊 Experience in machine learning, analytics, and dashboards  
-- ⚙️ Currently focusing on **data engineering + ML pipelines**  
+- 🎓 MADS @ University of Michigan (4.0 GPA)
+- 🏅 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude* (4.0 GPA)
+- 💼 Currently serving as a Data Scientist Intern @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/)
+- 📊 Experience with machine learning, exploratory data analysis, feature engineering, predictive modeling, and data visualization
+- ⚙️ Currently expanding my skills in data engineering, cloud technologies, and ML pipelines
 
 ---
 
@@ -87,6 +88,20 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ---
 
+### 📈 Inflation, Employment & Housing Affordability Analysis
+
+<p align="center">
+  <img src="https://github.com/Raymay3/Raymay3/blob/main/multi-line%20chart.png" width="600"/>
+</p>
+
+- Analyzed Zillow, Bureau of Labor Statistics, and employment datasets spanning 2016–2026
+- Built regional housing affordability indexes and visualized rent, inflation, and employment trends
+- Developed Python data pipelines for cleaning, transforming, and integrating multiple economic datasets
+
+👉 *(https://github.com/Raymay3/Inflation-Project)*
+
+---
+
 ### 🩺 Diabetes Risk Prediction (Machine Learning)
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/feature-correlation-heatmap.png" width="600"/>
@@ -102,6 +117,13 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ## 💼 Experience
 
+### 🏡 Data Scientist Intern (part-time) — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (2026)
+
+- Developed a machine learning pipeline in Python to predict California residential property sale prices using CRMLS data
+- Performed exploratory data analysis, preprocessing, feature engineering, and model evaluation on hundreds of thousands of residential property records
+- Built and compared Linear Regression, Decision Tree, Random Forest, and Gradient Boosting models
+- Collaborated in a Git-based development workflow with weekly deliverables, code reviews, and technical documentation
+
 ### 📊 Data Analyst — Gass Oral Surgery
 - Built dashboards that contributed to a **30% increase in production**  
 - Analyzed clinical + financial data to support decision-making  
@@ -111,8 +133,16 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 
 ## 🎓 Education
 
-- 📘 **University of Michigan** — Master of Applied Data Science (2025–2027)  
-- 📒 **Arizona State University** — B.S. Mathematics (Statistics), *Summa Cum Laude* (2021-2024)
+### 📘 University of Michigan
+**Master of Applied Data Science** (2025–2026)
+- ⭐ GPA: **4.0**
+
+### 📒 Arizona State University
+**B.S. Mathematics (Statistics)** (2021–2024)
+- 🏅 Summa Cum Laude
+- ⭐ GPA: **4.0**
+- 📜 Dean's List (2021–2023)
+- ⚡ Completed in an accelerated timeline (~3 years)
 
 ---
 
@@ -122,8 +152,6 @@ I enjoy building **end-to-end data systems**, from data ingestion and preprocess
 - ☁️ Expanding cloud and backend development skills
 - 🤖 Machine Learning & Model Deployment
 - 📊 Advanced Data Visualization
-
----
 
 ---
 
@@ -137,6 +165,14 @@ I'm continually expanding my technical toolkit through hands-on projects and str
 
 ---
 
-## 🎹 Fun Fact
+## 🎹 Fun Facts
 
-I’m also a competitive classical pianist with 14+ years of training and international performance experience 🎶
+- 🎹 Competitive classical pianist with 14+ years of formal training and state/international competition awards
+- 🏅 Arizona State University Moeur Award recipient (4.0 GPA throughout my undergraduate degree)
+- 🤝 Volunteer for the Arizona Dental Mission of Mercy
+
+---
+
+## 🤝 Let's Connect
+
+Thanks for visiting my GitHub! Feel free to explore my projects or connect with me on LinkedIn.
