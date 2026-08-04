@@ -175,4 +175,4 @@ I'm continually expanding my technical toolkit through hands-on projects and str
 
 ## 🤝 Let's Connect
 
-Thanks for visiting my GitHub! Feel free to explore my projects or connect with me on LinkedIn.
+Thanks for visiting my GitHub! Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriellagass/).
