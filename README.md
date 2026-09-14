@@ -33,11 +33,11 @@
 
 I'm a Master's student in Applied Data Science at the University of Michigan with a strong foundation in mathematics, statistics, and machine learning.
 
-I enjoy building end-to-end data solutions—from collecting and preparing data to developing machine learning models, creating visualizations, and communicating insights. I'm particularly interested in data engineering, predictive analytics, and building scalable data pipelines.
+I enjoy building end-to-end data solutions—from collecting and preparing data to developing machine learning models, creating visualizations, and communicating insights. I'm particularly interested in data engineering, predictive analytics, and building scalable data pipelines. I enjoy building reproducible, end-to-end machine learning workflows that transform raw data into deployable analytical solutions.
 
 - 🎓 MADS @ University of Michigan (4.0 GPA)
 - 🏅 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude* (4.0 GPA)
-- 💼 Currently serving as a Data Scientist Intern @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/)
+- 💼 Data Scientist Intern @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
 - 📊 Experience with machine learning, exploratory data analysis, feature engineering, predictive modeling, and data visualization
 - ⚙️ Currently expanding my skills in data engineering, cloud technologies, and ML pipelines
 
@@ -74,6 +74,18 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏡 California Home Price Prediction ([IDX Exchange](https://www.linkedin.com/company/idxexchange/))
+
+<p align="center">
+  <img src="https://github.com/Raymay3/Raymay3/blob/main/xgboost%20bar%20chart.png" width="600"/>
+</p>
+
+- Built an end-to-end machine learning pipeline to predict California home sale prices using 411,984 CRMLS residential property records
+- Engineered predictive features, integrated geographic school district data, and compared Linear Regression, Decision Tree, Random Forest, and XGBoost models
+- Developed a Streamlit prediction app and achieved **R² = 0.9024**, **MAPE = 12.23%**, and **MdAPE = 8.46%**
+
+👉 *(https://github.com/Raymay3/IDX-Exchange)*
 
 ### 🎧 Spotify Data Visualization Dashboard
 <p align="center">
@@ -117,12 +129,12 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 
 ## 💼 Experience
 
-### 🏡 Data Scientist Intern (part-time) — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (2026)
+### 🏡 Data Scientist Intern (part-time) — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
 
-- Developed a machine learning pipeline in Python to predict California residential property sale prices using CRMLS data
-- Performed exploratory data analysis, preprocessing, feature engineering, and model evaluation on hundreds of thousands of residential property records
-- Built and compared Linear Regression, Decision Tree, Random Forest, and Gradient Boosting models
-- Collaborated in a Git-based development workflow with weekly deliverables, code reviews, and technical documentation
+- Developed an end-to-end machine learning pipeline for California residential property price prediction
+- Built and evaluated Linear Regression, Decision Tree, Random Forest, and XGBoost models
+- Developed a Streamlit application for interactive home price prediction
+- Collaborated in a Git-based development workflow with documentation, code reviews, and stakeholder presentations
 
 ### 📊 Data Analyst — Gass Oral Surgery
 - Built dashboards that contributed to a **30% increase in production**  
@@ -148,10 +160,10 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 
 ## 🎯 Current Focus
 
-- ⚙️ Building data engineering projects and scalable data pipelines
-- ☁️ Expanding cloud and backend development skills
+- ☁️ Building cloud computing skills (AWS)
+- 🐧 Strengthening Linux and backend development
+- ⚙️ Designing scalable data engineering workflows
 - 🤖 Machine Learning & Model Deployment
-- 📊 Advanced Data Visualization
 
 ---
 
