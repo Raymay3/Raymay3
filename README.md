@@ -33,11 +33,11 @@
 
 I'm a Master's student in Applied Data Science at the University of Michigan with a strong foundation in mathematics, statistics, and machine learning.
 
-I enjoy building end-to-end data solutions—from collecting and preparing data to developing machine learning models, creating visualizations, and communicating insights. I'm particularly interested in data engineering, predictive analytics, and building scalable data pipelines. I enjoy building reproducible, end-to-end machine learning workflows that transform raw data into deployable analytical solutions.
+I enjoy building end-to-end data solutions—from collecting and preparing data to developing machine learning models, creating visualizations, and communicating insights. I'm particularly interested in data engineering, predictive analytics, and building reproducible, end-to-end machine learning workflows that transform raw data into deployable analytical solutions.
 
 - 🎓 MADS @ University of Michigan (4.0 GPA)
 - 🏅 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude* (4.0 GPA)
-- 💼 Data Scientist Intern @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
+- 💼 Data Scientist Intern & Project Team Lead @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
 - 📊 Experience with machine learning, exploratory data analysis, feature engineering, predictive modeling, and data visualization
 - ⚙️ Currently expanding my skills in data engineering, cloud technologies, and ML pipelines
 
@@ -134,8 +134,9 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 
 ## 💼 Experience
 
-### 🏡 Data Scientist Intern (part-time) — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
+### 🏡 Data Scientist Intern — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
 
+- Led a six-person data science team, coordinating weekly meetings, project responsibilities, deliverables, and communication with the internship mentor
 - Developed an end-to-end machine learning pipeline for California residential property price prediction
 - Built and evaluated Linear Regression, Decision Tree, Random Forest, and XGBoost models
 - Developed a Streamlit application for interactive home price prediction
@@ -182,11 +183,11 @@ I'm continually expanding my technical toolkit through hands-on projects and str
 
 ---
 
-## 🎹 Fun Facts
+## 🌟 Fun Facts
 
 - 🎹 Competitive classical pianist with 14+ years of formal training and state/international competition awards
 - 🏅 Arizona State University Moeur Award recipient (4.0 GPA throughout my undergraduate degree)
-- 🤝 Volunteer for the Arizona Dental Mission of Mercy
+- 🩺 Volunteer for the Arizona Dental Mission of Mercy
 
 ---
 
