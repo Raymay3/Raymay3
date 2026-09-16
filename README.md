@@ -105,7 +105,7 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 
 ---
 
-### 📈 Inflation, Employment & Housing Affordability Analysis
+### 📈 Inflation, Employment, & Housing Affordability Analysis
 
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/multi-line%20chart.png" width="600"/>
