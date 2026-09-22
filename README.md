@@ -57,6 +57,7 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 ![Pandas](https://img.shields.io/badge/Pandas-7E57C2?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-5E35B1?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-EC407A?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8E63D2?style=for-the-badge&logo=scipy&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-2E7D32?style=for-the-badge&logo=geopandas&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-D32F2F?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=FFFFFF&color=FFFFFF)
@@ -65,6 +66,7 @@ I enjoy building end-to-end data solutions—from collecting and preparing data 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1565C0?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-29B6F6?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-AB47BC?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ⚙️ Tools & Workflow
