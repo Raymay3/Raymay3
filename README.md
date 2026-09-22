@@ -159,7 +159,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🏡 Data Scientist Intern — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Jun 2026 - Sep 2026)
 
