@@ -105,7 +105,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ## 🚀 Featured Projects
 
-### 🏡 California Home Price Prediction ([IDX Exchange](https://www.linkedin.com/company/idxexchange/))
+### 🏡 California Home Price Prediction ([IDX Exchange](https://www.linkedin.com/company/idxexchange/)) • 2026
 
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/xgboost%20bar%20chart.png" width="600"/>
@@ -119,7 +119,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ---
 
-### 🎧 Spotify Data Visualization Dashboard
+### 🎧 Spotify Data Visualization Dashboard • 2026
 <p align="center">
   <img src="https://images.unsplash.com/photo-1611339555312-e607c8352fd7" width="600"/>
 </p>
@@ -132,7 +132,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ---
 
-### 📈 Inflation, Employment, & Housing Affordability Analysis
+### 📈 Inflation, Employment, & Housing Affordability Analysis • 2026
 
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/multi-line%20chart.png" width="600"/>
@@ -146,7 +146,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ---
 
-### 🩺 Diabetes Risk Prediction (Machine Learning)
+### 🩺 Diabetes Risk Prediction (Machine Learning) • 2024
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/feature-correlation-heatmap.png" width="600"/>
 </p>
@@ -161,7 +161,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ## 💼 Experience
 
-### 🏡 Data Scientist Intern — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
+### 🏡 Data Scientist Intern — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Jun 2026 - Sep 2026)
 
 - Led a six-person data science team, coordinating weekly meetings, project responsibilities, deliverables, and communication with the internship mentor
 - Developed an end-to-end machine learning pipeline for California residential property price prediction
@@ -170,7 +170,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 - Collaborated in a Git-based development workflow with documentation, code reviews, and stakeholder presentations
 - Engineered over 100 predictive features and preprocessing transformations across more than 400,000 California residential property records.
 
-### 📊 Data Analyst — Gass Oral Surgery
+### 📊 Data Analyst — Gass Oral Surgery (2017 - 2019)
 - Built dashboards that contributed to a **30% increase in production**  
 - Analyzed clinical + financial data to support decision-making  
 - Maintained **98–99% collection rates** through revenue analysis  
