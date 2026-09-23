@@ -224,7 +224,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 I'm continually expanding my technical toolkit through hands-on projects and structured learning in modern software development, cloud technologies, and data engineering.
 
-**Currently exploring:** AWS • Linux • Software Engineering Fundamentals
+**Currently exploring:** AWS
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/6cca6b56-1b36-4580-96a0-5427f6ae96f0/thumbnail" />
