@@ -236,7 +236,7 @@ I'm continually expanding my technical toolkit through hands-on projects and str
 ## 🌟 Beyond Data Science
 
 - 🎹 Competitive classical pianist with 14+ years of formal training, multiple state and international competition awards, and an invitation to perform at Carnegie Hall
-- 🏇 Former member of the Arizona State University Equestrian Team
+- 🏇 Former member of the [Arizona State University Equestrian Team](https://www.facebook.com/ArizonaStateEquestrian/)
 - 🩺 Community volunteer supporting charitable dental care through the [Arizona Dental Mission of Mercy](https://azdacares.org/) (AZMOM)
 - 📚 Enjoy reading Sherlock Holmes novels and historical fiction
 
