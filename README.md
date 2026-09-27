@@ -190,6 +190,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 - ⭐ GPA: **4.0**
 - 📜 Dean's List (2021–2023)
 - 🏆 Moeur Award Recipient
+- 🎓 New American University Scholar
 - ⚡ Completed bachelor's degree in an accelerated timeline (~3 years)
 
 ---
