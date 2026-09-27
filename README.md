@@ -39,7 +39,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 - 🎓 MADS @ University of Michigan (4.0 GPA)
 - 🏅 B.S. Mathematics (Statistics), Arizona State University — *Summa Cum Laude* (4.0 GPA)
-- 💼 Data Scientist Intern & Project Team Lead @ [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Summer 2026)
+- 💼 Data Scientist Intern & Project Team Lead @ [IDX Exchange](https://idxexchange.com/) (Summer 2026)
 - 📊 Experience with machine learning, exploratory data analysis, feature engineering, predictive modeling, and data visualization
 - ☁️ Experience with AWS cloud services and currently expanding my skills in data engineering and ML pipelines
 
@@ -106,7 +106,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ## 🚀 Featured Projects
 
-### 🏡 California Home Price Prediction ([IDX Exchange](https://www.linkedin.com/company/idxexchange/)) • 2026
+### 🏡 California Home Price Prediction ([IDX Exchange](https://idxexchange.com/)) • 2026
 
 <p align="center">
   <img src="https://github.com/Raymay3/Raymay3/blob/main/xgboost%20bar%20chart.png" width="600"/>
@@ -162,7 +162,7 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ## 💼 Professional Experience
 
-### 🏡 Data Scientist Intern — [IDX Exchange](https://www.linkedin.com/company/idxexchange/) (Jun 2026 - Sep 2026)
+### 🏡 Data Scientist Intern — [IDX Exchange](https://idxexchange.com/) (Jun 2026 - Sep 2026)
 
 - Led a six-person data science team, coordinating weekly meetings, project responsibilities, deliverables, and communication with the internship mentor
 - Developed an end-to-end machine learning pipeline for California residential property price prediction
