@@ -213,19 +213,21 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 
 ## 🎯 Current Focus
 
-- ☁️ AWS Cloud Computing & Serverless Applications
-- 🤖 Machine Learning Deployment with Streamlit
-- ⚙️ Data Engineering & ML Pipelines
-- 🏡 Large-Scale Predictive Modeling
-- 📊 Interactive Data Visualization
+- ⚙️ Building data engineering projects and scalable data pipelines
+- ☁️ Strengthening cloud computing and backend development skills
+- 🤖 Machine Learning & Model Deployment
+- 📊 Advanced Data Visualization
+- 🧠 Exploring AI-assisted software development and agentic coding workflows
 
 ---
 
 ## 🌱 Continuous Learning
 
-I'm continually expanding my technical toolkit through hands-on projects and structured learning in modern software development, cloud technologies, and data engineering.
+I'm continually expanding my technical toolkit through hands-on projects, graduate coursework, and structured learning in software engineering, cloud computing, and data engineering.
 
-**Currently exploring:** AWS
+**Currently exploring**: Agentic AI Development • AI-Assisted Coding • Software Engineering Best Practices
+
+**Recently completed**: AWS Cloud Computing • Linux Fundamentals
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/6cca6b56-1b36-4580-96a0-5427f6ae96f0/thumbnail" />
