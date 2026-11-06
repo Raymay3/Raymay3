@@ -87,6 +87,10 @@ My recent experience leading a six-person data science team at IDX Exchange stre
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
 
+### 🤖 AI-Assisted Development
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
+![OpenCode](https://img.shields.io/badge/OpenCode-18181B?style=for-the-badge&logo=opencode&logoColor=white)
+
 ---
 
 ## ⭐ Core Competencies
